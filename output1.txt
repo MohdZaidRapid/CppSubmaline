@@ -1,0 +1,3 @@
+126
+15
+not armstrong
