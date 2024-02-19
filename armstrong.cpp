@@ -18,7 +18,7 @@ int main()
 
 	if (sum == originN)
 	{
-		cout << "armstrong" << endl;
+		cout << "number is armstrong" << endl;
 	}
 	else
 	{
