@@ -22,7 +22,7 @@ int main()
 	}
 	else
 	{
-		cout << "not armstrong" << endl;
+		cout << "not armstrong number" << endl;
 	}
 
 	return 0;
